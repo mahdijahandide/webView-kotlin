@@ -22,7 +22,7 @@ import kotlinx.android.synthetic.main.activity_web_view.*
 
 class WebViewActivity : AppCompatActivity(){
 
-    private val URL = "https://dev.xfactors.io/login"
+    private val URL = "https://google.com"
     private var isAlreadyCreated = false
 
 
